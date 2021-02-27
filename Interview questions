@@ -1,0 +1,18 @@
+Wipro interview questions(27/Feb/2021)
+---------------------------------------
+1.when to use constructor injection
+2. have you used prototype scope bean in project ,what scenario ?
+3.Different propagation types & Isoloation types?
+4.different scope bean
+5. have you sleuth in project?
+6. what are design pattern used in microservices?
+7. what is circuit braker pattern?
+8. how authentication used in API gateway?
+9. have you used policy file?
+10.have you used log aggregator ?
+11.explain the architecture of the current project
+12. how security implemented in microservices
+13. wht are the components of spring framework?
+14. have you configured alert/dashboard in log aggregator?
+15 .what is log tracker?
+16. what are the things you will implement in microservices to make cloud native?
